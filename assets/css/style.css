@@ -105,6 +105,7 @@ footer h2 {
     font-size: 20px;
 }
 
+/* class to style the main content */
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,6 +115,7 @@ footer h2 {
     color: #ffffff;
 }
 
+/* class for the main meeting image */
 .hero {
     height: 800px;
     width: 100%;
